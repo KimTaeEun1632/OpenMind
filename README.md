@@ -44,7 +44,13 @@
 
 🔎미리보기
 
-<img width="60%" src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/4ded4f12-eac6-4ba4-9563-985aa5358f36" />
+| 메인페이지 | 리스트 페이지 |
+|----------------|-------------|
+| ![메이페이지](https://github.com/user-attachments/assets/52f0ee1e-4533-49bf-813e-87f45a56b504) | ![리스트 페이지](https://github.com/user-attachments/assets/3a03ba4f-88f7-4500-a269-e3bd339272d8) |
+
+| 개별 피드 페이지 | 질문 답변하기 |
+|----------------|-------------|
+| ![개별 피드 페이지](https://github.com/user-attachments/assets/9514e0d0-f0b6-404f-8ca1-001480840977) | ![질문 답변하기](https://github.com/user-attachments/assets/a0f227d4-38f2-48d5-a7a6-1f4ff6fc3f60) |
 
 - **프로젝트 기간** : 2024.02.24 ~ 2024.03.12
 
@@ -59,75 +65,18 @@
 
 **⭐️무한 스크롤**
 
-<img width="60%" src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/d2e134c2-c9f5-4581-80d3-5f584364e4ee" />
+![Image](https://github.com/user-attachments/assets/6cae5cef-0ec9-46b3-b372-2a1430b3cb7d)
 
 **⭐️페이지 네이션**
 
-<img width="60%" src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/2bae8964-37a9-41b2-9a39-4d4d9bb59817" />
+![Image](https://github.com/user-attachments/assets/09946d83-17f6-4192-bf7c-04efa7271873)
+
 
 # Workflow
-<img width="100%" src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/8d64b92d-e984-45a5-9600-572e93449cde" />
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/922dbd86-0e79-4e9d-890a-1dd6a227e6b5" />
 
 # Userflow
-<img width="100%" src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/fc7b4bf8-0f99-49ab-b87b-1b6c829b4caa" />
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/213ac7b3-aac9-4d26-b44d-a0d01c37c5b8" />
 
 # OpenMind 19팀 소개
-<table>
-  <tbody>
-    <tr>
-      <th colspan="2">이름</th>
-      <th width="330">담당</th>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/42131b57-8296-42a9-ab37-45ecdbfb22bb"width="100px; alt=""/></td>
-      <td><a href="https://github.com/aoooec">팀장 : 유아름 </a></td>
-      <td>
-        답변하기 페이지
-        <br>
-        피드 페이지, State 관리
-        <br>
-        전체적 코드 관리, 무한스크롤
-        <br>
-        CSS세팅, 스타일 관리
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/c7afa9dc-7767-421c-b94f-2651a6feeace" width="100px;" alt=""/></td>
-      <td><a href="https://github.com/nali-kang">팀원 : 강나리 </a></td>
-      <td>
-        질문리스트 페이지
-        <br>
-        무한 스크롤, 페이지네이션
-        <br>
-        API Hook, State 관리
-        <br>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/5a8922ce-c97b-46b8-869a-854f838ac329" width="100px;" alt=""/></td>
-      <td><a href="https://github.com/suMin-97">팀원 : 최수민 </a></td>
-      <td>
-        메인 페이지, 모달
-        <br>
-        토스트, 공유하기
-        <br>
-        피드 페이지
-        <br>
-        공용 레포 관리
-        <br>
-        깃 액션, 배포
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/KimTaeEun1632/Math_Box/assets/155213331/eaf4fc59-2ef6-48c0-9735-96cb152fff37" width="100px;" alt=""/></td>
-      <td><a href="https://github.com/KimTaeEun1632">팀원 : 김태은 </a></td>
-      <td>
-        피드 페이지
-        <br>
-        프로필
-        <br>
-        좋아요, 싫어요
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img width="60%" alt="Image" src="https://github.com/user-attachments/assets/039abcd2-6ec1-4a93-976d-e3f01bb8168c" />
